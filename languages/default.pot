@@ -1,0 +1,610 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPB Product Size Charts for WooCommerce Pro\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/twentyfifteen\n"
+"POT-Creation-Date: 2022-07-08 02:05+0600\n"
+"PO-Revision-Date: 2020-01-30 01:54+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: WpBean <imran@wpbean.com>\n"
+"Language: en_AS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_html\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: includes/admin\n"
+"X-Poedit-SearchPath-2: templates\n"
+"X-Poedit-SearchPath-3: main.php\n"
+"X-Poedit-SearchPath-4: includes/admin/size-table\n"
+
+#: includes/admin/class.mdc-meta-box.php:47
+msgid "MDC Metabox"
+msgstr ""
+
+#: includes/admin/class.mdc-meta-box.php:346
+msgid "Yes, Please!"
+msgstr ""
+
+#: includes/admin/class.mdc-meta-box.php:461
+#: includes/admin/class.settings-api.php:401
+msgid "Choose File"
+msgstr ""
+
+#: includes/admin/class.mdc-meta-box.php:462
+msgid "Select"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:30
+#: includes/admin/class.meta.config.php:38
+msgid "Size Chart Table"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:56
+msgid "Size Chart Setup"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:64
+msgid "Apply on All Products"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:66
+msgid "Check this if you want to set this size chart to all the products."
+msgstr ""
+
+#: includes/admin/class.meta.config.php:71
+msgid "Choose Products"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:78
+msgid "Select Product Categories"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:85
+msgid "Tab/Button Title"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:87
+#: includes/admin/class.post-type.php:39 includes/admin/class.post-type.php:82
+#: includes/class-shortcode.php:44 includes/class-woocommerce.php:145
+msgid "Size Chart"
+msgstr ""
+
+#: includes/admin/class.meta.config.php:91
+msgid "Tab Priority"
+msgstr ""
+
+#: includes/admin/class.post-type.php:38
+msgid "Size Charts"
+msgstr ""
+
+#: includes/admin/class.post-type.php:40
+msgid "Size Archives"
+msgstr ""
+
+#: includes/admin/class.post-type.php:41
+msgid "Size Attributes"
+msgstr ""
+
+#: includes/admin/class.post-type.php:42
+msgid "Parent Size:"
+msgstr ""
+
+#: includes/admin/class.post-type.php:43
+msgid "All Size Charts"
+msgstr ""
+
+#: includes/admin/class.post-type.php:44
+msgid "Add New Size Chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:45
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/class.post-type.php:46
+msgid "New Size Chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:47
+msgid "Edit Size Chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:48
+msgid "Update Size Chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:49
+msgid "View Size Chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:50
+msgid "View Size Charts"
+msgstr ""
+
+#: includes/admin/class.post-type.php:51
+msgid "Search Size Chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:52
+msgid "Not found"
+msgstr ""
+
+#: includes/admin/class.post-type.php:53
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/admin/class.post-type.php:54
+msgid "Featured Image"
+msgstr ""
+
+#: includes/admin/class.post-type.php:55
+msgid "Set featured image"
+msgstr ""
+
+#: includes/admin/class.post-type.php:56
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/admin/class.post-type.php:57
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/admin/class.post-type.php:58
+msgid "Insert into size chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:59
+msgid "Uploaded to this size chart"
+msgstr ""
+
+#: includes/admin/class.post-type.php:60
+msgid "Size chart list"
+msgstr ""
+
+#: includes/admin/class.post-type.php:61
+msgid "Size charts list navigation"
+msgstr ""
+
+#: includes/admin/class.post-type.php:62
+msgid "Filter size chart list"
+msgstr ""
+
+#: includes/admin/class.post-type.php:83
+msgid "Product Size Charts for WooCommerce"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:42
+msgid "WPB Size Charts Settings"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:43 main.php:140
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:54
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:58
+msgid "Table Style (Pro Only)"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:62
+msgid "Button Style (Pro Only)"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:66
+msgid "Popup Style (Pro Only)"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:82
+msgid "Show Chart as"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:83
+msgid ""
+"Choose how you want to show the size chart. Default: Button, the size chart "
+"will be shown in a popup."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:88
+msgid "Button"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:89
+msgid "Tab"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:94
+msgid "Button Place"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:95
+msgid "Choose a position where you want to show the button."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:99
+msgid "Before product title"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:100
+msgid "After product title"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:101
+msgid "After product price"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:102
+msgid "After product excerpt"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:103
+msgid "After product cart button"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:104
+msgid "After product meta"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:105
+msgid "After product sharing"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:110
+msgid "Content Place"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:111
+msgid ""
+"Choose where you want to show the size content. Default: Before the site "
+"chart table."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:116
+msgid "Before Chart Table"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:117
+msgid "After Chart Table"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:122
+msgid "Size Chart Content"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:123
+msgid "Choose the content elements."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:127
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:128
+msgid "Content"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:129
+msgid "Chart Table"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:136
+msgid "Table Type"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:137
+msgid "Choose a table type."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:141
+#: includes/admin/class.settings-config.php:159
+#: includes/admin/class.settings-config.php:172
+msgid "Default"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:142
+#: includes/admin/class.settings-config.php:160
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:143
+msgid "Striped"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:144
+msgid "Striped Dark"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:145
+msgid "Bordered"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:146
+msgid "Bordered Dark"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:147
+msgid "Hover"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:148
+msgid "Hover Dark"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:149
+msgid "No Style"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:154
+msgid "Table Head Type"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:155
+msgid "Choose a table head type. Only works with table type default."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:161
+msgid "Light"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:166
+msgid "Table Align"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:167
+msgid "Choose table alignment"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:173
+msgid "Left"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:174
+msgid "Right"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:175
+msgid "Center"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:182
+msgid "Button Type"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:183
+msgid "Choose a button type. Default: plain text."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:188
+msgid "Plain Text"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:189
+msgid "Normal Button"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:194
+msgid "Button Size"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:195
+msgid "Select button size. Default: Medium."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:200
+msgid "Small"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:201
+msgid "Medium"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:202
+msgid "Large"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:207
+msgid "Button margin top"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:214
+msgid "Button margin bottom"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:221
+msgid "Button Color"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:222
+msgid "Choose button color."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:228
+msgid "Button Background"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:229
+msgid "Choose button background color."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:235
+msgid "Button Hover Color"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:236
+msgid "Choose button hover color."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:242
+msgid "Button Hover Background"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:243
+msgid "Choose button hover background color."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:249
+msgid "Font Size"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:255
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:261
+msgid "Text Color Hover"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:269
+msgid "Enable Popup Style"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:270
+msgid "Check this to enable the popup style."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:276
+msgid "Popup Width"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:277
+msgid "Popup window width, Can be in px or %. The default width is 960px."
+msgstr ""
+
+#: includes/admin/class.settings-config.php:283
+msgid "Px"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:284
+msgid "%"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:289
+msgid "Popup background"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:295
+msgid "Popup content color"
+msgstr ""
+
+#: includes/admin/class.settings-config.php:300
+msgid "Popup close icon color"
+msgstr ""
+
+#: includes/admin/size-table/size-table-new.php:10
+msgid "Add Column"
+msgstr ""
+
+#: includes/admin/size-table/size-table-new.php:11
+msgid "Remove Column"
+msgstr ""
+
+#: includes/admin/size-table/size-table-new.php:25
+msgid "Add Row"
+msgstr ""
+
+#: includes/admin/size-table/size-table-new.php:26
+msgid "Remove Row"
+msgstr ""
+
+#: includes/class-ajax.php:26
+msgid "No content to show!"
+msgstr ""
+
+#: includes/class-shortcode.php:56
+msgid "Size Chart ID required."
+msgstr ""
+
+#: includes/class-woocommerce.php:169
+msgid "Disable Size Chart?"
+msgstr ""
+
+#: includes/class-woocommerce.php:170
+msgid "Disable size chart for this product"
+msgstr ""
+
+#: includes/functions.php:170
+msgid "PRO FEATURES"
+msgstr ""
+
+#: includes/functions.php:189
+msgid "PRO Discount"
+msgstr ""
+
+#: includes/functions.php:189
+#, php-format
+msgid "Get a 10% exclusive discount on the premium version of the"
+msgstr ""
+
+#: includes/functions.php:189
+msgid "WPB Product Size Charts for WooCommerce"
+msgstr ""
+
+#: includes/functions.php:189
+msgid "Use discount code - "
+msgstr ""
+
+#: includes/functions.php:211
+msgid "Size ID"
+msgstr ""
+
+#: includes/functions.php:212
+msgid "Button Text"
+msgstr ""
+
+#: includes/functions.php:213
+msgid "Show On"
+msgstr ""
+
+#: includes/functions.php:214
+msgid "ShortCode"
+msgstr ""
+
+#: includes/functions.php:215
+msgid "Date"
+msgstr ""
+
+#: includes/functions.php:236
+msgid "All Products"
+msgstr ""
+
+#: includes/functions.php:238
+msgid "Selected Products"
+msgstr ""
+
+#: includes/functions.php:245
+msgid "Product ID Here"
+msgstr ""
+
+#: main.php:43
+msgid ""
+"You can't activate the free version of WPB Product Size Charts for "
+"WooCommerce while you are using the premium one."
+msgstr ""
+
+#: main.php:143
+msgid "Go Pro"
+msgstr ""
+
+#: main.php:281
+msgid "WPB Product Size Charts for WooCommerce Pro"
+msgstr ""
+
+#: main.php:281
+msgid " required "
+msgstr ""
+
+#: main.php:281
+msgid "WooCommerce"
+msgstr ""
+
+#: main.php:281
+msgid " plugin to work with."
+msgstr ""

@@ -1,0 +1,179 @@
+.menu-icon-wpb_psc_size_chart img {
+    max-width: 22px;
+    padding: 0!important;
+}
+#adminmenu .menu-icon-wpb_psc_size_chart div.wp-menu-image {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#wpb-psc-size-table, #wpb-psc-size-table input[type="text"] {
+	width: 100%;
+}
+#wpb-psc-size-table thead input[type="text"] {
+    border: 0;
+    text-align: center;
+    padding: 5px 0;
+}
+#wpb-psc-size-table thead input[type="text"]:focus {
+    outline: 0;
+    border: 0;
+    box-shadow: none;
+}
+#wpb-psc-size-table input[type="text"] {
+    padding: 6px 10px;
+}
+.wpb-psc-size-table-heading {
+    display: flex;
+}
+.wpb-psc-size-table-heading-control {
+    display: flex;
+    align-items: center;
+}
+#wpb-psc-size-table button {
+    border: 0;
+    color: #fff;
+    border-radius: 3px;
+    width: 28px;
+    height: 27px;
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+    padding: 0;
+}
+#wpb-psc-size-table button:hover {
+    cursor: pointer;
+}
+#wpb-psc-size-table button:focus{
+    box-shadow: none;
+}
+#wpb-psc-size-table button.btn-success { background-color: #2ecc71; }
+#wpb-psc-size-table button.btn-danger { background-color: #e74c3c; }
+#wpb-psc-size-table button.btn-success:hover, #wpb-psc-size-table button.btn-success:focus { background-color: #27ae60; }
+#wpb-psc-size-table button.btn-danger:hover, #wpb-psc-size-table button.btn-danger:focus { background-color: #c0392b; }
+
+#wpb-psc-size-table {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+table {
+    border-collapse: collapse;
+}
+#wpb-psc-size-table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    border-top: 0;
+    text-align: center;
+}
+th {
+    text-align: inherit;
+}
+#wpb-psc-size-table td, #wpb-psc-size-table th {
+    padding: .75rem;
+    vertical-align: middle;
+    border-top: 1px solid #dee2e6;
+}
+#wpb-psc-size-table tbody tr:nth-of-type(odd) {
+    background-color: rgba(0,0,0,.05);
+}
+
+.wpb-psc-table-loading {
+    opacity: 0;
+}
+.wpb-psc-table-wrapper > input {
+    width: 100%;
+    padding: 5px 15px;
+}
+
+#woocommerce-product-data ul.wc-tabs li.wpb_psc_size_chart_options a::before, .woocommerce ul.wc-tabs li.wpb_psc_size_chart_options a::before {
+    content: "\f108";
+}
+
+
+.wpb-psc-pro-features, .wpb-psc-pro-features.updated {
+    position: relative;
+    margin-top: 30px;
+    background: #fff;
+    padding: 30px;
+    font-size: 16px;
+    box-shadow: 0 0 8px -2px rgba(0,0,0,.3);
+    border-width: 0 0 0 5px;
+    border-left-color: #11a0d2;
+}
+.notice-dismiss {
+    text-decoration: none;
+}
+.wpb-psc-pro-features h3 {
+    font-size: 28px;
+}
+.wpb-psc-pro-features p {
+    font-size: 16px;
+}
+.wpb-psc-pro-features ul {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.wpb-psc-pro-features ul li {
+    position: relative;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+.wpb-psc-pro-features ul li:before {
+    content: "\f15e";
+    font-family: dashicons;
+    margin-right: 15px;
+    font-size: 22px;
+    color: #c71843;
+}
+.wpb-psc-pro-features .button-pro {
+    background: #0652DD;
+    border-color: #0652DD;
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.wpb-psc-pro-features .button-pro:hover, .wpb-psc-pro-features .button-pro:focus, .wpb-psc-pro-features .button-pro:active {
+   background: #1B1464;
+   border-color: #1B1464;
+   color: #fff;
+}
+
+.wpb-psc-pro-features.wpb-psc-pro-features-notice h3 {
+    margin-top: 0;
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+.wpb-psc-pro-features.wpb-psc-pro-features-notice .button-pro,
+.meta-box-sortables .button-pro {
+    margin-top: 8px;
+    padding: 4px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.wpb-psc-pro-alert-popup a.swal2-confirm {
+    text-decoration: none;
+    margin-top: 30px;
+    display: block;
+}
+.wpb-psc-pro-alert-popup .swal2-content p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.meta-box-sortables .wpb-psc-pro-features {margin: 0;padding: 18px;background: transparent;box-shadow: none;}
+.meta-box-sortables .button-pro {
+    padding: 7px 22px;
+}
+.meta-box-sortables .wpb-psc-pro-features h3 {
+    margin-top: 0;
+}
